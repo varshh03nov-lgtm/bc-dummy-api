@@ -1,0 +1,3 @@
+source_name,company_name,environment_name,api_type,api_route,endpoint_name,response_root_path,lh_name,lh_workspace_id,schema_name,table_name,modified_watermark_column,is_full_refresh,enabled
+BusinessCentral,DummyCorp,poc,Standard,https://raw.githubusercontent.com/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard,/customers.json,value,Raw_Layer,lh_workspace_id,dummy,bc_customers,,1,1
+BusinessCentral,DummyCorp,poc,Custom,https://raw.githubusercontent.com/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/custom,/salesOrders.json,salesOrders,Raw_Layer,lh_workspace_id,dummy,bc_salesorders,,1,1
