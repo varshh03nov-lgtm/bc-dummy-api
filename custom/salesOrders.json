@@ -1,0 +1,18 @@
+{
+     "salesOrders": [
+       {
+         "orderId": "SO-5001",
+         "customerId": "1001",
+         "orderDate": "2026-07-01",
+         "totalAmount": 4500.00,
+         "status": "Released"
+       },
+       {
+         "orderId": "SO-5002",
+         "customerId": "1002",
+         "orderDate": "2026-07-03",
+         "totalAmount": 1250.50,
+         "status": "Open"
+       }
+     ]
+   }
