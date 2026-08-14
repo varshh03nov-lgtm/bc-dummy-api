@@ -1,0 +1,16 @@
+{
+     "value": [
+       {
+         "id": "1001",
+         "displayName": "Customer A",
+         "email": "customerA@example.com",
+         "city": "Chennai"
+       },
+       {
+         "id": "1002",
+         "displayName": "Customer B",
+         "email": "customerB@example.com",
+         "city": "Bangalore"
+       }
+     ]
+   }
