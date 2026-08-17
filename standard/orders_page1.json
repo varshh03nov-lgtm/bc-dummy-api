@@ -1,0 +1,7 @@
+{
+     "value": [
+       { "id": "3001", "orderNo": "ORD-001", "amount": 100 },
+       { "id": "3002", "orderNo": "ORD-002", "amount": 200 }
+     ],
+     "@odata.nextLink": "https://raw.githubusercontent.com/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard/orders_page2.json"
+   }
