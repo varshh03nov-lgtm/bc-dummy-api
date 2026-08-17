@@ -1,5 +1,5 @@
 source_name,company_name,environment_name,api_type,api_route,endpoint_name,response_root_path,lh_name,lh_workspace_id,schema_name,table_name,modified_watermark_column,is_full_refresh,enabled,pagination_field
-   BusinessCentral,DummyCorp,poc,Standard,/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard,/customers.json,value,Raw_Layer,TBD_WORKSPACE_ID,dummy,bc_customers,,1,1,
+   BusinessCentral,DummyCorp,poc,Standard,/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard,/customers.json,value,Raw_Layer,TBD_WORKSPACE_ID,dummy,bc_customers,lastModifiedDateTime,0,1,
    BusinessCentral,DummyCorp,poc,Custom,/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/custom,/salesOrders.json,salesOrders,Raw_Layer,TBD_WORKSPACE_ID,dummy,bc_salesorders,,1,1,
    BusinessCentral,DummyCorp,poc,Standard,/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard,/vendors.json,value,Raw_Layer,TBD_WORKSPACE_ID,dummy,bc_vendors,,1,1,
    BusinessCentral,DummyCorp,poc,Standard,/varshh03nov-lgtm/bc-dummy-api/refs/heads/main/standard,/orders_page1.json,value,Raw_Layer,TBD_WORKSPACE_ID,dummy,bc_orders,,1,1,@odata.nextLink
