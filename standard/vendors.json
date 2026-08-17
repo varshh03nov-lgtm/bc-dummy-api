@@ -1,0 +1,32 @@
+{
+     "value": [
+       {
+         "id": "2001",
+         "displayName": "Vendor A",
+         "address": {
+           "name": "Main Warehouse",
+           "pincode": "600001",
+           "city": "Chennai"
+         },
+         "billingAddress": {
+           "name": "Finance Office",
+           "pincode": "600002",
+           "city": "Chennai"
+         }
+       },
+       {
+         "id": "2002",
+         "displayName": "Vendor B",
+         "address": {
+           "name": "North Depot",
+           "pincode": "560001",
+           "city": "Bangalore"
+         },
+         "billingAddress": {
+           "name": "Accounts Wing",
+           "pincode": "560002",
+           "city": "Bangalore"
+         }
+       }
+     ]
+   }
