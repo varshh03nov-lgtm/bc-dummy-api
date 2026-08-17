@@ -4,13 +4,22 @@
          "id": "1001",
          "displayName": "Customer A",
          "email": "customerA@example.com",
-         "city": "Chennai"
+         "city": "Chennai",
+         "lastModifiedDateTime": "2026-08-01T10:00:00Z"
        },
        {
          "id": "1002",
          "displayName": "Customer B",
          "email": "customerB@example.com",
-         "city": "Bangalore"
+         "city": "Bangalore",
+         "lastModifiedDateTime": "2026-08-05T14:30:00Z"
+       },
+       {
+         "id": "1003",
+         "displayName": "Customer C",
+         "email": "customerC@example.com",
+         "city": "Mumbai",
+         "lastModifiedDateTime": "2026-08-15T09:00:00Z"
        }
      ]
    }
